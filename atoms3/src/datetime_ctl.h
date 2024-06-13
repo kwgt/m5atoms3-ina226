@@ -1,3 +1,8 @@
+/*
+ * Date time initialize for Arduino environment.
+ *
+ *  Copyright (C) 2024 Hiroshi Kuwagata <kgt9221@gmail.com>.
+ */
 #ifndef __DATETIME_CTL_H__
 #define __DATETIME_CTL_H__
 

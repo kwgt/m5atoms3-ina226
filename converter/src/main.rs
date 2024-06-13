@@ -1,5 +1,5 @@
 /*
- * log data converter
+ * log data converter for DC power monitor
  *
  * Copyright (C) 2024 Hiroshi Kuwagata <kgt9221@gmail.com>
  */

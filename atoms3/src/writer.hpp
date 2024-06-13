@@ -1,9 +1,15 @@
-#include <stdio.h>
-#include <stdint.h>
-#include <stdbool.h>
+/*
+ * DC power monitor for INA226 with M5 AtomS3
+ *
+ *  Copyright (C) 2024 Hiroshi Kuwagata <kgt9221@gmail.com>.
+ */
 
 #ifndef __WRITER_H__
 #define __WRITER_H__
+
+#include <stdio.h>
+#include <stdint.h>
+#include <stdbool.h>
 
 /**
  * ライターモジュールの動作開始

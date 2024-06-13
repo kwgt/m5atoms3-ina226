@@ -1,3 +1,8 @@
+/*
+ * Date time initialize for Arduino environment.
+ *
+ *  Copyright (C) 2024 Hiroshi Kuwagata <kgt9221@gmail.com>.
+ */
 #include <Arduino.h>
 #include <WiFi.h>
 #include <SdFat.h>
